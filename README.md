@@ -40,6 +40,7 @@ Nghiên cứu này xem xét các tác vụ không thể phân chia và nhạy c�
 ![image](https://github.com/drpsy/MEC_taskOffloading/assets/87910428/be4cd789-7f36-476d-a005-ae773cb42d12)
 
 
+* Paper tham khảo cho bài toán : [](https://ieeexplore.ieee.org/document/9253665)
 
 
 
